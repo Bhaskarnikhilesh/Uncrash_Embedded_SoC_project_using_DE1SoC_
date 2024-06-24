@@ -67,7 +67,7 @@ The following game files are provided to run the game
 - **Ending the Game**: The game ends when you crash into an obstacle or reach the maximum score limit of 9999.
 - **Game Demonstration**
 
-https://github.com/leeds-embedded-systems/ELEC5620M-Mini-Project-Group-20/assets/159156207/0870e211-42fc-4de3-b663-71328756b652
+[https://github.com/leeds-embedded-systems/ELEC5620M-Mini-Project-Group-20/assets/159156207/0870e211-42fc-4de3-b663-71328756b652](https://github.com/Bhaskarnikhilesh/Uncrash_Embedded_SoC_project_using_DE1SoC_/blob/main/WhatsApp%20Video%202024-06-24%20at%2022.00.50.mp4)
 
 ---
 
