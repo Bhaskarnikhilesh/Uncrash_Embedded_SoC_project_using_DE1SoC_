@@ -3,7 +3,7 @@
  *
  * Details : Renders and moves the Car on LT24 screen at the given position.
  *
- * Author: Aakash Rao
+ * Author: Nikhilesh Bhaskar
  *
  */
 
