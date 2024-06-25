@@ -5,7 +5,7 @@
  * obstacles, coins, roads, and sidewalks. It set, configures, shifts
  * and displays the game world on LT24.
  *
- * Author: Santosh K S
+ * Author: Nikhilesh Bhaskar
  *
  */
 
