@@ -5,7 +5,7 @@
  * Comprises of sidewalk, obstacles, coins, car and other images.
  * Has world block definitions and image dimensions.
  *
- * Author: Santosh K S
+ * Author: Nikhilesh Bhaskar
  *
  */
 
