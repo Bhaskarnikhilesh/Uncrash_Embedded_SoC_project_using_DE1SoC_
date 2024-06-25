@@ -4,7 +4,7 @@
  * Details: RGB565 pixel value array of sprites used in the game.
  * Comprises of sidewalk, obstacles, coins, car and other images.
  *
- * Author: Santosh K S
+ * Author: Nikhilesh Bhaskar
  *
  */
 
