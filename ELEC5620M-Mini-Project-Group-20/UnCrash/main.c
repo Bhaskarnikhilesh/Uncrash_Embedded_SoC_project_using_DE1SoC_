@@ -9,7 +9,7 @@
  * number of coins collected, is prominently displayed on the
  * seven-segment displays of the DE1-SoC board.
  *
- * Author: Santosh K S
+ * Author: Nikhilesh Bhaskar
  *
  */
 
