@@ -3,7 +3,7 @@
  *
  * Details : Defines structure and width of each character in the font image.
  *
- * Author: Santosh K S
+ * Author: Nikhilesh Bhaskar
  *
  */
 
