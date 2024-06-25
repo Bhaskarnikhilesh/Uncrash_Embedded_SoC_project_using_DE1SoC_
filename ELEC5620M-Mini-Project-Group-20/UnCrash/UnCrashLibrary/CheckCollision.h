@@ -4,7 +4,7 @@
  * Details : Detects collisions between the player's car
  * and other objects within the game world.
  *
- * Author: Santosh K S
+ * Author: Nikhilesh Bhaskar
  *
  */
 
