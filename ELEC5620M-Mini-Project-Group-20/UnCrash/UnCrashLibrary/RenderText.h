@@ -3,7 +3,7 @@
  *
  * Details: Displays score and game replay instructions text on LT24.
  *
- * Author: Santosh K S
+ * Author: Nikhilesh Bhaskar
  *
  */
 
