@@ -86,9 +86,9 @@ https://github.com/Bhaskarnikhilesh/Uncrash_Embedded_SoC_project_using_DE1SoC_/a
 
 #### Contributors
 
-- **Santosh Kutuwa Shivaram**: Game design, world building, collision checks, text rendering.
-- **Aakash Rao**: Car movement and display handling.
-- **Yeuhan You**: Game scoring system and display on seven-segment displays.
-- **Nikhilesh Bhaskar**: Audio output library for game events.
+- **Santosh Kutuwa Shivaram**
+- **Aakash Rao**
+- **Yeuhan You**
+- **Nikhilesh Bhaskar**
 
 ---
